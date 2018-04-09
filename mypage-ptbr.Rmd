@@ -42,3 +42,4 @@ Estudos sobre filmes.
 
 Desenvolvimento de gráficos.
 
+Notas sobre o livro R for Data Science [aqui]()
