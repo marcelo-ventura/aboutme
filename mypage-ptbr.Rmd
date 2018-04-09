@@ -20,13 +20,13 @@ Se você é à moda antiga, sem problemas. Sou um com a força em marcelos.ventu
 
 Meu número de celular é +5562993463125.
 
-## Uncommon information
+## Informações incomuns
 
-To be continued.....
+Continua.....
 
 ![Alt Text](https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif)
 
-# Crazy information
+# Informações malucas
 
 Sou louco por Lego.
 
@@ -34,8 +34,11 @@ Eu evito discussões sobre política no Brasil.
 
 Eu amo correr.
 
-I could spend 24 hours using R.
+Poderia gastar 24 horas usando R.
 
-# Personal current projects
+# Projetos pessoais atuais
 
-Movies studying.
+Estudos sobre filmes.
+
+Desenvolvimento de gráficos.
+
