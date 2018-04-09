@@ -1,0 +1,42 @@
+---
+title: "Minha página"
+author: "Marcelo Ventura"
+date: "09/04/2018"
+output: html_document
+---
+
+## Bem vindo!
+
+Essa é minha página pessoal. Você encontrará informações comuns, incomuns e malucas.
+
+## Informações comuns
+
+Meu nome é Marcelo Ventura, e recentemente obtive um mestrado em Economia Aplicada. Meus interesses pessoais, acadêmicos, e profissionais são: linguagem R, redes sociais, mineração de dados, estatística, economia, simulações de Monte Carlo. 
+
+Eu publiquei trabalhos sobre youtube, http://ssystem08.upis.br/repositorio/media/revistas/revista_multipla/multipla41.pdf, IMDb.com, http://repositorio.bc.ufg.br/tede/handle/tede/8278. Além disso, irei publicar um trabalho sobre criptomoedas. 
+
+Iria ficar surpreso se pudesse lhe encontrar em redes sociais como [Linkedin]( https://www.linkedin.com/in/marcelo-ventura-8542a9a6/), [Strava]( https://www.strava.com/athletes/19622799), [Twitter]( https://www.twitter.com/marcelosventura), e [Kaggle]( https://www.kaggle.com/marceloventura).
+
+Se você é à moda antiga, sem problemas. Sou um com a força em marcelos.ventura@gmail.com movido por [Astro](www.helloastro.com).
+
+Meu número de celular é +5562993463125.
+
+## Uncommon information
+
+To be continued.....
+
+![Alt Text](https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif)
+
+# Crazy information
+
+Sou louco por Lego.
+
+Eu evito discussões sobre política no Brasil.
+
+Eu amo correr.
+
+I could spend 24 hours using R.
+
+# Personal current projects
+
+Movies studying.
