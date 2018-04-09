@@ -1,7 +1,6 @@
 ---
 title: "Minha página"
 author: "Marcelo Ventura"
-date: "09/04/2018"
 output: html_document
 ---
 
