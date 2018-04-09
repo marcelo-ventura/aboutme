@@ -1,0 +1,23 @@
+---
+title: "My page"
+author: "Marcelo Ventura"
+date: "09/04/2018"
+output: html_document
+---
+
+
+## Welcome!
+
+This is my personal webpage. Here you will find common, uncommon, and crazy information :)
+
+## Common information
+
+My name is Marcelo Ventura, and I've got a Msc. in Applied Economics. You can find my thesis here: http://repositorio.bc.ufg.br/tede/handle/tede/8278
+
+# Uncommon information
+
+To be continued.....
+
+# Crazy information
+
+To be continued....very soon! :)
