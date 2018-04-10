@@ -1,7 +1,6 @@
 ---
 title: "My page"
 author: "Marcelo Ventura"
-date: "09/04/2018"
 output:
   prettydoc::html_pretty:
     theme: cayman
