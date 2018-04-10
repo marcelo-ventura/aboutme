@@ -28,7 +28,7 @@ My cell number is +5562993463125.
 
 To be continued.....
 
-![Alt Text](https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif)
+![](https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif)
 
 # Crazy information
 
@@ -43,3 +43,12 @@ I could spend 24 hours using R.
 # Personal current projects
 
 Movies studying.
+
+Graphs development.
+
+Personal notes about R for Data Science [here](https://marcelo-ventura.github.io/notesonrfds/mynotes.html)
+
+
+## If your read until here....thank you!!!!
+
+![](https://media.giphy.com/media/OtbZhLpNLxDoc/giphy.gif)
