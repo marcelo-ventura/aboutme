@@ -27,7 +27,7 @@ Meu número de celular é +5562993463125.
 
 Continua.....
 
-![Alt Text](https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif)
+![](https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif)
 
 # Informações malucas
 
@@ -45,4 +45,8 @@ Estudos sobre filmes.
 
 Desenvolvimento de gráficos.
 
-Notas sobre o livro R for Data Science [aqui]()
+Notas sobre o livro R for Data Science [aqui](https://marcelo-ventura.github.io/notesonrfds/mynotes.html)
+
+## Se você leu até aqui....muito obrigado!!!
+
+![](https://media.giphy.com/media/OtbZhLpNLxDoc/giphy.gif)
