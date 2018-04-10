@@ -1,7 +1,10 @@
 ---
 title: "Minha página"
 author: "Marcelo Ventura"
-output: html_document
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
 ---
 
 ## Bem vindo!
