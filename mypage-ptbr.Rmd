@@ -9,7 +9,7 @@ output:
 
 ## Bem vindo!
 
-Essa é minha página pessoal. Você encontrará informações comuns, incomuns e malucas.
+Essa é minha página pessoal. Você encontrará informações comuns, projetos pessoais e curiosidades.
 
 ## Informações comuns
 
@@ -23,13 +23,22 @@ Se você é à moda antiga, sem problemas. Sou um com a força em marcelos.ventu
 
 Meu número de celular é +5562993463125.
 
-## Informações incomuns
+# Projetos pessoais atuais
 
-Continua.....
+Modelagem e desenvolvimento de dados de filmes.
 
-![](https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif)
+Desenvolvimento de aplicativos em RShiny.
 
-# Informações malucas
+Mineração de dados de redes sociais.
+
+Desenvolvimento de gráficos.
+
+Simulações de Monte Carlo.
+
+Notas sobre o livro R for Data Science [aqui](https://marcelo-ventura.github.io/notesonrfds/mynotes.html)
+
+
+# Curiosidades
 
 Sou louco por Lego.
 
@@ -38,14 +47,6 @@ Eu evito discussões sobre política no Brasil.
 Eu amo correr.
 
 Poderia gastar 24 horas usando R.
-
-# Projetos pessoais atuais
-
-Estudos sobre filmes.
-
-Desenvolvimento de gráficos.
-
-Notas sobre o livro R for Data Science [aqui](https://marcelo-ventura.github.io/notesonrfds/mynotes.html)
 
 ## Se você leu até aqui....muito obrigado!!!
 
