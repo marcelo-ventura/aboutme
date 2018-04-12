@@ -10,7 +10,7 @@ output:
 
 ## Welcome!
 
-This is my personal webpage. Here you will find common, uncommon, and crazy information :)
+This is my personal webpage. Here you will find common informations, personal projects and fun facts :)
 
 ## Common information
 

@@ -15,7 +15,7 @@ Essa é minha página pessoal. Você encontrará informações comuns, projetos 
 
 Meu nome é Marcelo Ventura, e recentemente obtive um mestrado em Economia Aplicada. Meus interesses pessoais, acadêmicos, e profissionais são: linguagem R, redes sociais, mineração de dados, estatística, economia, simulações de Monte Carlo. 
 
-Eu publiquei trabalhos sobre youtube, http://ssystem08.upis.br/repositorio/media/revistas/revista_multipla/multipla41.pdf, IMDb.com, http://repositorio.bc.ufg.br/tede/handle/tede/8278. Além disso, irei publicar um trabalho sobre criptomoedas. 
+Eu já publiquei trabalhos sobre [youtube](http://ssystem08.upis.br/repositorio/media/revistas/revista_multipla/multipla41.pdf), [IMDb.com](http://repositorio.bc.ufg.br/tede/handle/tede/8278), e irei publicar um trabalho sobre criptomoedas. 
 
 Iria ficar surpreso se pudesse lhe encontrar em redes sociais como [Linkedin]( https://www.linkedin.com/in/marcelo-ventura-8542a9a6/), [Strava]( https://www.strava.com/athletes/19622799), [Twitter]( https://www.twitter.com/marcelosventura), e [Kaggle]( https://www.kaggle.com/marceloventura).
 
