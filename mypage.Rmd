@@ -24,13 +24,21 @@ If you are old school, don't worry. I'm one with the force at marcelos.ventura@g
 
 My cell number is +5562993463125.
 
-## Uncommon information
+# Personal current projects
 
-To be continued.....
+Movie data modeling and developments.
 
-![](https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif)
+RShiny apps development.
 
-# Crazy information
+Social media data mining.
+
+Graphs development.
+
+Monte Carlo simulations.
+
+Personal notes about R for Data Science [here](https://marcelo-ventura.github.io/notesonrfds/mynotes.html)
+
+# Fun facts
 
 I'm crazy about lego. 
 
@@ -39,14 +47,6 @@ I avoid discussions about politics in Brazil.
 I love running.
 
 I could spend 24 hours using R.
-
-# Personal current projects
-
-Movies studying.
-
-Graphs development.
-
-Personal notes about R for Data Science [here](https://marcelo-ventura.github.io/notesonrfds/mynotes.html)
 
 
 ## If your read until here....thank you!!!!
