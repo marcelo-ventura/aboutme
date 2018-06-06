@@ -38,8 +38,6 @@ Graphs development.
 
 Monte Carlo simulations.
 
-Personal notes about R for Data Science [here](https://marcelo-ventura.github.io/notesonrfds/mynotes.html)
-
 # Fun facts
 
 I'm crazy about lego. 
@@ -48,7 +46,7 @@ I avoid discussions about politics in Brazil.
 
 I love running.
 
-I could spend 24 hours using R.
+I enjoy solving problems.
 
 
 ## If your read until here....thank you!!!!

@@ -21,7 +21,7 @@ Por gentileza, considere gastar um minuto explorando meu mais novo app sobre cri
 
 Iria ficar surpreso se pudesse lhe encontrar em redes sociais como [Linkedin]( https://www.linkedin.com/in/marcelo-ventura-8542a9a6/), [Strava]( https://www.strava.com/athletes/19622799), [Twitter]( https://www.twitter.com/marcelosventura), e [Kaggle]( https://www.kaggle.com/marceloventura).
 
-Se você é à moda antiga, sem problemas. Sou um com a força em marcelos.ventura@gmail.com movido por [Astro](www.helloastro.com).
+Se você é à moda antiga, sem problemas. A força está comigo em marcelos.ventura@gmail.com graças ao [Astro](www.helloastro.com).
 
 Meu número de celular é +5561933001300.
 
@@ -37,8 +37,6 @@ Desenvolvimento de gráficos.
 
 Simulações de Monte Carlo.
 
-Notas sobre o livro R for Data Science [aqui](https://marcelo-ventura.github.io/notesonrfds/mynotes.html)
-
 
 # Curiosidades
 
@@ -48,7 +46,7 @@ Eu evito discussões sobre política no Brasil.
 
 Eu amo correr.
 
-Poderia gastar 24 horas usando R.
+Gosto de solucionar problemas.
 
 ## Se você leu até aqui....muito obrigado!!!
 
