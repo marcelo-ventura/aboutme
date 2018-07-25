@@ -14,7 +14,7 @@ This is my personal webpage. Here you will find common informations, personal pr
 
 ## Common information
 
-My name is Marcelo Ventura, and I've got a Msc. in Applied Economics. My personal, academic, and profesional interests are: R language, social media, Data mining, statistics, economics, Monte Carlo simulations. 
+My name is Marcelo Ventura, and I've got a Msc. in Applied Economics. My personal, academic, and profesional interests are: R language, social media, Data mining, statistics, economics, Monte Carlo simulations, creating applications in R, and cryptocurrencies. 
 
 I've published works about [youtube]( http://ssystem08.upis.br/repositorio/media/revistas/revista_multipla/multipla41.pdf), [IMDb.com](http://repositorio.bc.ufg.br/tede/handle/tede/8278), and I'm going to publish a work about criptocurrencies. 
 
@@ -34,7 +34,7 @@ RShiny apps development.
 
 Social media data mining.
 
-Graphs development.
+Data viz developments.
 
 Monte Carlo simulations.
 
