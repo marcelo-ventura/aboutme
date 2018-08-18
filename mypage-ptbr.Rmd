@@ -13,29 +13,27 @@ Essa é minha página pessoal. Você encontrará informações comuns, projetos 
 
 ## Informações comuns
 
-Meu nome é Marcelo Ventura, e recentemente obtive um mestrado em Economia Aplicada. Meus interesses pessoais, acadêmicos, e profissionais são: linguagem R, redes sociais, mineração de dados, estatística, economia, simulações de Monte Carlo, criação de aplicações em R, e criptomoedas. 
+Meu nome é Marcelo Ventura, e recentemente obtive um mestrado em Economia Aplicada. Meus interesses pessoais, acadêmicos, e profissionais são: linguagem R, redes sociais, mineração de dados, estatística, economia, simulações de Monte Carlo, criação de aplicações em R, modelagem de dados e séries temporais, previsão de modelos e criptomoedas. 
 
-Eu já publiquei trabalhos sobre [youtube](http://ssystem08.upis.br/repositorio/media/revistas/revista_multipla/multipla41.pdf), [IMDb.com](http://repositorio.bc.ufg.br/tede/handle/tede/8278), e irei publicar um trabalho sobre criptomoedas. 
+Eu já publiquei trabalhos sobre [youtube](http://ssystem08.upis.br/repositorio/media/revistas/revista_multipla/multipla41.pdf), [IMDb.com](http://repositorio.bc.ufg.br/tede/handle/tede/8278), e [criptomoedas](https://proceedings.science/iii-ser-2018/papers/criptomoedas-e-uma-aplicacao-para-modelos-lineares-hiperbolicos?lang=pt-br). 
 
 Por gentileza, considere gastar um minuto explorando meu mais novo app sobre criptomoedas [aqui](https://marcelo-ventura.shinyapps.io/crypto/)!
 
-Iria ficar feliz se pudesse lhe encontrar em redes sociais como [Linkedin]( https://www.linkedin.com/in/marcelo-ventura-8542a9a6/), [Strava]( https://www.strava.com/athletes/19622799), [Twitter]( https://www.twitter.com/marcelosventura), e [Kaggle]( https://www.kaggle.com/marceloventura).
+Minhas redes sociais são: [Linkedin]( https://www.linkedin.com/in/marcelo-ventura-8542a9a6/), [Strava]( https://www.strava.com/athletes/19622799), [Twitter]( https://www.twitter.com/marcelosventura), e [Kaggle]( https://www.kaggle.com/marceloventura).
 
-Se você é à moda antiga, sem problemas. A força está comigo em marcelos.ventura@gmail.com graças ao [Astro](www.helloastro.com).
+Email: marcelos.ventura@gmail.com
 
-Meu número de celular é +5561933001300.
+Celular: +5561933001300.
 
 # Projetos pessoais atuais
 
-Modelagem e desenvolvimento de dados de filmes.
+Resolver problemas interessantes com dados.
 
-Desenvolvimento de aplicativos em RShiny.
+Desenvolvimento de aplicativos e dashboards em RShiny.
 
 Mineração de dados de redes sociais.
 
-Desenvolvimento de visualizações de dados.
-
-Simulações de Monte Carlo.
+Previsão de dados.
 
 
 # Curiosidades
