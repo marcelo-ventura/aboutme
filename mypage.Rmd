@@ -14,11 +14,17 @@ This is my personal webpage. Here you will find common informations, personal pr
 
 ## Common information
 
-My name is Marcelo Ventura, and I've got a Msc. in Applied Economics. My personal, academic, and profesional interests are: R language, social media, Data mining, statistics, economics, Monte Carlo simulations, creating applications in R, data and time series modeling, forecasting and cryptocurrencies. 
+My name is Marcelo Ventura, and I'm a remote Data Scientist. My personal, academic, and profesional interests are: R language, Python, social media, Data mining, statistics, economics, Monte Carlo simulations, creating applications in R, data and time series modeling, forecasting and cryptocurrencies. 
 
-I've published works about [youtube]( http://ssystem08.upis.br/repositorio/media/revistas/revista_multipla/multipla41.pdf), [IMDb.com](http://repositorio.bc.ufg.br/tede/handle/tede/8278), and [cryptocurrencies](https://proceedings.science/iii-ser-2018/papers/criptomoedas-e-uma-aplicacao-para-modelos-lineares-hiperbolicos?lang=pt-br). 
+I've published works about [youtube]( http://ssystem08.upis.br/repositorio/media/revistas/revista_multipla/multipla41.pdf), [IMDb.com](https://onlinelibrary.wiley.com/doi/full/10.1002/asmb.2433), [Airflow ETL - Banco do Brasil](http://periodicos.uff.br/anaisdoser/article/view/29328), and [cryptocurrencies](https://proceedings.science/iii-ser-2018/papers/criptomoedas-e-uma-aplicacao-para-modelos-lineares-hiperbolicos?lang=pt-br). 
 
-Please consider spending a minute exploring my app about cryptocurrencies [here](https://marcelo-ventura.shinyapps.io/crypto/)!
+My list of clients are:
+
+* [Espaço Multiplicidade](https://www.espacomultiplicidade.com.br/)
+* [CAESB](https://www.caesb.df.gov.br/)
+* [In Press Oficina](http://www.inpressoficina.com.br/)
+* [CNM](https://www.cnm.org.br/)
+* [Brintell](https://www.brintell.com/)
 
 My social media are: [Linkedin]( https://www.linkedin.com/in/marcelo-ventura-8542a9a6/), [Strava]( https://www.strava.com/athletes/19622799), [Twitter]( https://www.twitter.com/marcelosventura), and [Kaggle]( https://www.kaggle.com/marceloventura).
 
@@ -30,7 +36,7 @@ Cell: +5561933001300.
 
 Solving interesting problems with data.
 
-RShiny apps and dashboards development.
+Shiny apps and dashboards development. This [link](https://marcelo-ventura.shinyapps.io/twitter/) is an interesting example. 
 
 Social media data mining.
 
@@ -47,6 +53,6 @@ I love running.
 I enjoy solving problems.
 
 
-## If your read until here....thank you!!!!
+## If you read until here....thank you!!!!
 
 ![](https://media.giphy.com/media/OtbZhLpNLxDoc/giphy.gif)

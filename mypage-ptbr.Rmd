@@ -13,11 +13,18 @@ Essa é minha página pessoal. Você encontrará informações comuns, projetos 
 
 ## Informações comuns
 
-Meu nome é Marcelo Ventura, e recentemente obtive um mestrado em Economia Aplicada. Meus interesses pessoais, acadêmicos, e profissionais são: linguagem R, redes sociais, mineração de dados, estatística, economia, simulações de Monte Carlo, criação de aplicações em R, modelagem de dados e séries temporais, previsão de modelos e criptomoedas. 
+Meu nome é Marcelo Ventura, e sou Cientista de Dados remoto. Meus interesses pessoais, acadêmicos, e profissionais são: linguagem R, Python, redes sociais, mineração de dados, estatística, economia, simulações de Monte Carlo, criação de aplicações em R, modelagem de dados e séries temporais, previsão de modelos e criptomoedas. 
 
-Eu já publiquei trabalhos sobre [youtube](http://ssystem08.upis.br/repositorio/media/revistas/revista_multipla/multipla41.pdf), [IMDb.com](http://repositorio.bc.ufg.br/tede/handle/tede/8278), e [criptomoedas](https://proceedings.science/iii-ser-2018/papers/criptomoedas-e-uma-aplicacao-para-modelos-lineares-hiperbolicos?lang=pt-br). 
+Eu já publiquei trabalhos sobre [youtube](http://ssystem08.upis.br/repositorio/media/revistas/revista_multipla/multipla41.pdf), [IMDb.com](https://onlinelibrary.wiley.com/doi/full/10.1002/asmb.2433), [Airflow ETL - Banco do Brasil](http://periodicos.uff.br/anaisdoser/article/view/29328) e [criptomoedas](https://proceedings.science/iii-ser-2018/papers/criptomoedas-e-uma-aplicacao-para-modelos-lineares-hiperbolicos?lang=pt-br). 
 
-Por gentileza, considere gastar um minuto explorando meu mais novo app sobre criptomoedas [aqui](https://marcelo-ventura.shinyapps.io/crypto/)!
+Minha lista de clientes é:
+
+* [Espaço Multiplicidade](https://www.espacomultiplicidade.com.br/)
+* [CAESB](https://www.caesb.df.gov.br/)
+* [In Press Oficina](http://www.inpressoficina.com.br/)
+* [CNM](https://www.cnm.org.br/)
+* [Brintell](https://www.brintell.com/)
+
 
 Minhas redes sociais são: [Linkedin]( https://www.linkedin.com/in/marcelo-ventura-8542a9a6/), [Strava]( https://www.strava.com/athletes/19622799), [Twitter]( https://www.twitter.com/marcelosventura), e [Kaggle]( https://www.kaggle.com/marceloventura).
 
@@ -29,7 +36,7 @@ Celular: +5561933001300.
 
 Resolver problemas interessantes com dados.
 
-Desenvolvimento de aplicativos e dashboards em RShiny.
+Desenvolvimento de aplicativos e dashboards em Shiny. Um exemplo interessante está neste [link](https://marcelo-ventura.shinyapps.io/twittercloud/).
 
 Mineração de dados de redes sociais.
 
