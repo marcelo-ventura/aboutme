@@ -36,7 +36,7 @@ Celular: +5561933001300.
 
 Resolver problemas interessantes com dados.
 
-Desenvolvimento de aplicativos e dashboards em Shiny. Um exemplo interessante está neste [link](https://marcelo-ventura.shinyapps.io/twittercloud/).
+Desenvolvimento de aplicativos e dashboards em Shiny. Um exemplo interessante está neste [link](https://marcelo-ventura.shinyapps.io/twitter/).
 
 Mineração de dados de redes sociais.
 
